@@ -1,4 +1,4 @@
- // morris traversal
+ // morris  inoreder traversal
         vector<int>ans ;
 
         TreeNode* curr = root ;
